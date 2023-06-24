@@ -1,1 +1,1 @@
-# meals-app-js
+# meals-app.github.io
